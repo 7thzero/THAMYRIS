@@ -97,5 +97,7 @@ In the android app you will see classes in `com.ithink.util`. One of them is cal
 # Further Analysis (hardware)
 Pulling the camera apart, it appears to use a **GOKE GK7102**. I tried to use the tricks described in [zsgxh1hacks](https://github.com/ant-thomas/zsgx1hacks), unfortunately it did not seem to work for me.
 
+Information on the [Goke sensor](https://www.unifore.net/company-highlights/goke-hd-ip-camera-solution-gk7101-gk7102.html)
+
 There might be either a JTAG or a UART port on the board. Either would be great to dig deeper
 
