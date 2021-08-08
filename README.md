@@ -31,14 +31,18 @@ You will also find
 The wireless camera is pretty chatty with its cloud masters. To gain better control of the camera, one would need to master and impersonate the cloud server to send your own control codes.
 
 ## Setup
-I have an old laptop running hostapd and dnsmasq to filter communication from the camera through my test bed. This is important as it lets me route `ap.jawalife.net` traffic to analysis tools
+I have an old laptop running **hostapd and dnsmasq** to filter communication from the camera through my test bed. This is important as it lets me route `ap.jawalife.net` traffic to analysis tools
 
 ## Current notes
 Requests from the **camera** look like this
-  https://ap.jawalife.net/jawa/security.do?data=587843996f75fa7dff0cf67dd6ab985318a39bd032b26367e24ec935edf187d0c3f9ebba3dc916be91b5fd2078ac7e834f830b68493a1ea8468cd400e21ca956da24a8e7d32028218ed50546&TPWlanWarnChecked=0
+```
+https://ap.jawalife.net/jawa/security.do?data=587843996f75fa7dff0cf67dd6ab985318a39bd032b26367e24ec935edf187d0c3f9ebba3dc916be91b5fd2078ac7e834f830b68493a1ea8468cd400e21ca956da24a8e7d32028218ed50546&TPWlanWarnChecked=0
+```
 
 Responses look similar:
-   C5C405CB9C64D32C53F109F979498FC889E5AC3A49FC40123E3288AF085714E808AC577AA34396B82ABAD8784BDC062A7A3BA505797BF4CE24D63E48D7A9D8444EB4B229B8C6F59CD5CB18CAD7A9D8444EB4B229DC7EB867CF236E60
+```
+C5C405CB9C64D32C53F109F979498FC889E5AC3A49FC40123E3288AF085714E808AC577AA34396B82ABAD8784BDC062A7A3BA505797BF4CE24D63E48D7A9D8444EB4B229B8C6F59CD5CB18CAD7A9D8444EB4B229DC7EB867CF236E60
+```
 
 The `first 8 characters` of both the request and response payloads are encryption keys that can be used to decode the rest of the payload
 
