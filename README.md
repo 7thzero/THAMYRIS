@@ -22,6 +22,19 @@ Inside the `android` directory you will find the source code for an android appl
 - At this point the camera is ready for further analysis
 
 
+# data directory
+Contains audacity project + mp3 export of a pairing session:
+
+```
+SSID:        AAAA
+Pwd:         11111111
+Random Code: 246881
+```
+
+# Conference note
+After the presentation I heard a recommendation to look into [fldigi](https://en.wikipedia.org/wiki/Fldigi) as potential way to speed analysis of audio signals. Noting the recommendation here as a potential tool to use for decoding signals!
+
+
 # tools directory
 When the camera is bootstrapped, it is assigned a random 6 hex-character password (at least I haven't picked up on a pattern yet!). In this directory you will find an RTSP brute-force tool that can be used as a base for brute-forcing the password. The camera is slow and can only take 5 to 30 concurrent requests per second
 

@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="amiccom-camera-pairing-AAAA-11111111-246881_data" version="1.3.0" audacityversion="2.4.2" sel0="5.3144671202" sel1="5.3144671202" selLow="4363.6367187500" selHigh="4363.6367187500" vpos="0" h="0.0000000000" zoom="443.3332767291" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" isSelected="1" height="524" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1236657">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f77a.au" len="218048" min="-0.20155" max="0.211709" rms="0.084139"/>
+				</waveblock>
+				<waveblock start="218048">
+					<simpleblockfile filename="eff1fcc9.au" len="262144" min="-0.218904" max="0.255453" rms="0.096699"/>
+				</waveblock>
+				<waveblock start="480192">
+					<simpleblockfile filename="eff1f2e3.au" len="262144" min="-0.273367" max="0.297458" rms="0.110013"/>
+				</waveblock>
+				<waveblock start="742336">
+					<simpleblockfile filename="eff1fa2f.au" len="262144" min="-0.266912" max="0.308525" rms="0.110031"/>
+				</waveblock>
+				<waveblock start="1004480">
+					<simpleblockfile filename="eff1ff39.au" len="232177" min="-0.265199" max="0.281941" rms="0.107163"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="93" minimized="0" numlabels="41">
+		<label t="0.8881632653" t1="0.8881632653" selLow="3172.1469726562" selHigh="3172.1469726562" title="1"/>
+		<label t="0.9287981859" t1="0.9287981859" selLow="3388.7814941406" selHigh="3388.7814941406" title="3"/>
+		<label t="1.8372789116" t1="1.8372789116" selLow="3048.3557128906" selHigh="3048.3557128906" title="1"/>
+		<label t="1.8996825397" t1="1.8996825397" selLow="3001.9343261719" selHigh="3001.9343261719" title="0"/>
+		<label t="1.9649886621" t1="1.9649886621" selLow="3141.1992187500" selHigh="3141.1992187500" title="2"/>
+		<label t="2.0172335601" t1="2.0172335601" selLow="3311.4121093750" selHigh="3311.4121093750" title="3"/>
+		<label t="2.0752834467" t1="2.0752834467" selLow="3497.0986328125" selHigh="3497.0986328125" title="4"/>
+		<label t="2.1376870748" t1="2.1376870748" selLow="3234.0427246094" selHigh="3234.0427246094" title="3"/>
+		<label t="2.1928344671" t1="2.1928344671" selLow="3729.2070312500" selHigh="3729.2070312500" title="6"/>
+		<label t="2.2566893424" t1="2.2566893424" selLow="3357.8337402344" selHigh="3357.8337402344" title="3"/>
+		<label t="2.3176417234" t1="2.3176417234" selLow="4007.7370605469" selHigh="4007.7370605469" title="8"/>
+		<label t="2.3785941043" t1="2.3785941043" selLow="3373.3073730469" selHigh="3373.3073730469" title="3"/>
+		<label t="2.4380952381" t1="2.4380952381" selLow="3930.3674316406" selHigh="3930.3674316406" title="8"/>
+		<label t="2.4961451247" t1="2.4961451247" selLow="3342.3598632812" selHigh="3342.3598632812" title="3"/>
+		<label t="2.5570975057" t1="2.5570975057" selLow="3063.8298339844" selHigh="3063.8298339844" title="1"/>
+		<label t="2.6253061224" t1="2.6253061224" selLow="3326.8859863281" selHigh="3326.8859863281" title="3"/>
+		<label t="2.6775510204" t1="2.6775510204" selLow="3032.8820800781" selHigh="3032.8820800781" title="0"/>
+		<label t="2.7457596372" t1="2.7457596372" selLow="4441.0058593750" selHigh="4441.0058593750" title="B"/>
+		<label t="2.7892970522" t1="2.7892970522" selLow="4750.4833984375" selHigh="4750.4833984375" title="end"/>
+		<label t="2.8647619048" t1="2.8647619048" selLow="5539.6518554688" selHigh="5539.6518554688" title="end/begin"/>
+		<label t="2.9184580499" t1="2.9184580499" selLow="5183.7524414062" selHigh="5183.7524414062" title="begin"/>
+		<label t="2.9823129252" t1="2.9823129252" selLow="3234.0427246094" selHigh="3234.0427246094" title="2"/>
+		<label t="3.0389115646" t1="3.0389115646" selLow="3079.3037109375" selHigh="3079.3037109375" title="1"/>
+		<label t="3.1071201814" t1="3.1071201814" selLow="3172.1469726562" selHigh="3172.1469726562" title="0"/>
+		<label t="3.1608163265" t1="3.1608163265" selLow="3930.3674316406" selHigh="3930.3674316406" title="7"/>
+		<label t="3.2203174603" t1="3.2203174603" selLow="3110.2514648438" selHigh="3110.2514648438" title="0"/>
+		<label t="3.2798185941" t1="3.2798185941" selLow="3682.7851562500" selHigh="3682.7851562500" title="6"/>
+		<label t="3.3422222222" t1="3.3422222222" selLow="3295.9379882812" selHigh="3295.9379882812" title="2"/>
+		<label t="3.3959183673" t1="3.3959183673" selLow="4131.5278320312" selHigh="4131.5278320312" title="B"/>
+		<label t="3.4684807256" t1="3.4684807256" selLow="5323.0175781250" selHigh="5323.0175781250" title="end"/>
+		<label t="3.5120181406" t1="3.5120181406" selLow="5245.6479492188" selHigh="5245.6479492188" title="end"/>
+		<label t="3.5758730159" t1="3.5758730159" selLow="5121.8564453125" selHigh="5121.8564453125" title="begin"/>
+		<label t="3.6397278912" t1="3.6397278912" selLow="5106.3828125000" selHigh="5106.3828125000" title="begin"/>
+		<label t="3.6977777778" t1="3.6977777778" selLow="3295.9379882812" selHigh="3295.9379882812" title="2"/>
+		<label t="3.7572789116" t1="3.7572789116" selLow="2970.9863281250" selHigh="2970.9863281250" title="0"/>
+		<label t="3.8254875283" t1="3.8254875283" selLow="3017.4082031250" selHigh="3017.4082031250" title="1"/>
+		<label t="3.8878911565" t1="3.8878911565" selLow="4502.9013671875" selHigh="4502.9013671875" title="F"/>
+		<label t="3.9488435374" t1="3.9488435374" selLow="4054.1586914062" selHigh="4054.1586914062" title="8"/>
+		<label t="4.0054421769" t1="4.0054421769" selLow="3001.9343261719" selHigh="3001.9343261719" title="0"/>
+		<label t="5.3144671202" t1="5.3144671202" selLow="4363.6367187500" selHigh="4363.6367187500" title=""/>
+		<label t="5.3928344671" t1="5.3928344671" selLow="3063.8298339844" selHigh="3063.8298339844" title="0"/>
+	</labeltrack>
+</project>
