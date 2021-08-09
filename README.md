@@ -22,6 +22,12 @@ Inside the `android` directory you will find the source code for an android appl
 - At this point the camera is ready for further analysis
 
 
+# Slides
+You can find the slides here titled:
+```
+DEFCON-29-Rion-Carter-Why-does-my-security-camera-scream-like-a-banshee-signal-analysis-and-re
+```
+
 # data directory
 Contains audacity project + mp3 export of a pairing session:
 
